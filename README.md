@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm blockcrafter</h1>
-<h3 align="center">A 15 years Hobbyist Dev</h3>
+<h3 align="center">A 15-years-old Hobbyist Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blockcrafter21&label=Profile%20views&color=0e75b6&style=flat" alt="blockcrafter21" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS and CSS**
 
-- ⚡ Fun fact **I have ADHD**
+- ⚡ Fun fact **POG**
 
 
 <h3 align="left">Languages and Tools:</h3>
