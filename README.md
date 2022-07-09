@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blockcrafter21&label=Profile%20views&color=0e75b6&style=flat" alt="blockcrafter21" /> </p>
 
-- 🔭 I’m currently working on **A private home automation project using flask**
+- 🔭 I’m currently working on **Homeautomation using Home Assistant**
 
 - 🌱 I’m currently learning **JS and CSS**
 
