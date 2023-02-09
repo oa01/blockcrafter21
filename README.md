@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blockcrafter21&label=Profile%20views&color=0e75b6&style=flat" alt="blockcrafter21" /> </p>
 
-- 🔭 I’m currently working on **Homeautomation using Home Assistant**
+- 🔭 I’m currently working on **Some Websites using django**
 
-- 🌱 I’m currently learning **JS and CSS**
+- 🌱 I’m currently learning **JS and React**
 
 - ⚡ Fun fact **POG**
 
